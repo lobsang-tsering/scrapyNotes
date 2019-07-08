@@ -1,4 +1,6 @@
-# notes on git 
+# notes on git
+# Forking is copying the git repository to one's own git 
+# repository so he or she can do whatever changes needed to be done. it is also used to avoid amature chages made to the original opensource codes. 
 git init : create or initinalize git reposotory locallay.
 git add : to add the file to staging area
 git status : to see the status of the git 
