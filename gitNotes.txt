@@ -1,0 +1,13 @@
+git init : create or initinalize git reposotory locallay.
+git add : to add the file to staging area
+git status : to see the status of the git 
+git log : log the commites mades 
+git got commit -m  : got add the files to the local reposotory
+git remote add -u origin "URL" : to create or link the local reposotory to remote 
+git git push -u origin : to update or push the files to the remote reposotory
+git diff : 
+git rm --cached -r .
+git branch : to list the branch 
+git branch "branch name " : to create new brance;
+git checkout  "branch name " : to switch between the branches 
+ 
