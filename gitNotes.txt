@@ -10,4 +10,4 @@ git rm --cached -r .
 git branch : to list the branch 
 git branch "branch name " : to create new brance;
 git checkout  "branch name " : to switch between the branches 
- 
+git merge "branch Name" : to merge the branch to master branch 
